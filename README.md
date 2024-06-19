@@ -1,4 +1,4 @@
-# Title: End-to-End Testing with Robot-Framework in Python
+# Title: End-to-End Testing with Python in Robot-Framework
 
 
 Introduction:
